@@ -14,15 +14,15 @@
 
 # 4.Subir o projeto com Docker Compose
 
--No bash ou terminal irá digitar docker-compose up -d --build para poder buildar o docker e subir ele
+-No bash ou terminal irá digitar docker-compose up --build para poder buildar o docker e subir ele
 
 # 5.Verificar se subiu
 
--Ira digitar docker ps e ver se o mesmo esta ativo para confirmação 
+-Ira digitar docker ps e ver se o mesmo esta ativo para confirmação
 
 # 6.Abrindo o site com o docker
 
--Após digitar docker-compose up -d --build e compilar o site estará disponível em: localhost:8888 
+-Após digitar docker-compose up --build e compilar o site estará disponível em: localhost:8888 
 
 # 7.Para o container para alteração
 
